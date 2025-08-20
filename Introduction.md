@@ -5,10 +5,10 @@ This repository contains structured notes, theorems, and solved examples in **Fu
 The aim is to build a concise and rigorous reference for future research in **Pure Mathematics**.
 
 ## Contents  
-- 📖 **Core Concepts** – Normed spaces, Banach spaces, Hilbert spaces.  
-- 📝 **Solved Problems** – Worked examples from coursework and standard texts.  
-- 🔍 **Key Theorems** – Hahn-Banach, Open Mapping, Closed Graph, Banach-Steinhaus.  
-- 📚 **References** – Textbooks, lecture notes, and research articles.
+- **Core Concepts** – Normed spaces, Banach spaces, Hilbert spaces.  
+- **Solved Problems** – Worked examples from coursework and standard texts.  
+- **Key Theorems** – Hahn-Banach, Open Mapping, Closed Graph, Banach-Steinhaus.  
+- **References** – Textbooks, lecture notes, and research articles.
 
 ## Usage  
 - Written in **LaTeX/Markdown** for mathematical clarity.  
